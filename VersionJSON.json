@@ -1,6 +1,8 @@
 {
   "Version 4.1": {
-    "Changelog": "test",
-    "Type": "Update"
+    "Type": "Stable",
+    "Changelog": "Stable release.",
+    "PublicDataUrl": "https://raw.githubusercontent.com/ZonitoVFX/ZonitoVisuals/refs/heads/main/ZonitoVisuals3.2Textures",
+    "ToolbarName": "ZonitoVisuals"
   }
 }
