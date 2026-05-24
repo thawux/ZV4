@@ -20011,12 +20011,12 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://98370676190747"
     },
-    "Black Layered Swirl": {
+    "Fixed Layered Swirl": {
       "Type"      : "Static",
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "190",
-      "Texture"   : "rbxassetid://11902304637"
+      "Texture"   : "rbxassetid://121237221445897"
     },
     "New43": {
       "Type"      : "Static",
