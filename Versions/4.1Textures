@@ -10367,7 +10367,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://81002790685240"
+      "Texture"   : "rbxassetid://77708517780310"
     },
     "Cloud Left": {
       "Type"      : "4x4",
@@ -16033,7 +16033,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "236",
-      "Texture"   : "rbxassetid://139892030154932"
+      "Texture"   : "rbxassetid://105270240967436"
     },
     "Water29": {
       "Type"      : "4x4",
@@ -17448,7 +17448,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://74240469646673"
+      "Texture"   : "rbxassetid://115680792712725"
     },
     "Galaxy cube": {
       "Type"      : "4x4",
@@ -17483,7 +17483,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://129014960350933"
+      "Texture"   : "rbxassetid://138858906433552"
     },
     "Uneven Cloudy Spec": {
       "Type"      : "4x4",
@@ -19052,7 +19052,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://112027770719036"
+      "Texture"   : "rbxassetid://95620375052549"
     },
     "Rainbow7": {
       "Type"      : "Static",
@@ -20765,7 +20765,7 @@
     "Rainbow9": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://97929386459568",
+      "Texture"   : "rbxassetid://111721470612876",
       "Resolution": "256",
       "Credits"   : "?"
     },
@@ -24825,7 +24825,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://87084613097833"
+      "Texture"   : "rbxassetid://101029648910355"
     },
     "Bell Emoji 4x4": {
       "Type"      : "4x4",
@@ -29267,7 +29267,7 @@
     "Flare4New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://108983459497753",
+      "Texture"   : "rbxassetid://75815916669551",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -29366,13 +29366,6 @@
       "Type"      : "8x8",
       "Tags"      : ["Other"],
       "Texture"   : "rbxassetid://17070242492",
-      "Resolution": "1024",
-      "Credits"   : "?"
-    },
-    "Flare1New": {
-      "Type"      : "Static",
-      "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://934589012102431",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -30438,7 +30431,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://126518558868668"
+      "Texture"   : "rbxassetid://136094520111741"
     },
     "cosmic energy 2": {
       "Type"      : "Static",
@@ -31005,7 +30998,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://98196387020863"
+      "Texture"   : "rbxassetid://108065894629377"
     },
     "Flare66New": {
       "Type"      : "Static",
@@ -31080,7 +31073,7 @@
     "Flare9New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://124813528163456",
+      "Texture"   : "rbxassetid://116454002887628",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -31370,13 +31363,6 @@
       "Credits"   : "?",
       "Resolution": "1024",
       "Texture"   : "rbxassetid://530839385"
-    },
-    "Sparkling Glare 4x4": {
-      "Type"      : "4x4",
-      "Tags"      : ["Flare"],
-      "Credits"   : "?",
-      "Resolution": "1024",
-      "Texture"   : "rbxassetid://115372930859283"
     },
     "Medium Box": {
       "Type"      : "Static",
@@ -33520,7 +33506,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://108473755110934"
+      "Texture"   : "rbxassetid://119322146862676"
     },
     "Other87": {
       "Type"      : "Static",
@@ -34458,7 +34444,7 @@
     "Rainbow6": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://140009089272208",
+      "Texture"   : "rbxassetid://78772401055219",
       "Resolution": "256",
       "Credits"   : "?"
     },
@@ -35132,7 +35118,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "507",
-      "Texture"   : "rbxassetid://112395091452924"
+      "Texture"   : "rbxassetid://136145554754284"
     },
     "3D Sun Overlay": {
       "Type"      : "8x8",
@@ -36526,7 +36512,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://89690679163454"
+      "Texture"   : "rbxassetid://76078627518918"
     },
     "Detailed Abstract Flower": {
       "Type"      : "Static",
@@ -41262,7 +41248,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://133536760983430"
+      "Texture"   : "rbxassetid://118961003281876"
     },
     "Chromatic Lightning Spark 3 4x4": {
       "Type"      : "4x4",
@@ -41647,7 +41633,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://105478663697983"
+      "Texture"   : "rbxassetid://86797503052447"
     },
     "Black paper": {
       "Type"      : "4x4",
@@ -46876,7 +46862,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://108958305582622"
+      "Texture"   : "rbxassetid://98997258924169"
     },
     "Thin Basic Circle": {
       "Type"      : "Static",
@@ -47590,7 +47576,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "510",
-      "Texture"   : "rbxassetid://133603965293523"
+      "Texture"   : "rbxassetid://131200035872268"
     },
     "Smokey Shockwave": {
       "Type"      : "Static",
