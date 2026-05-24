@@ -51781,7 +51781,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://105481683942363"
+      "Texture"   : "rbxassetid://107172567060673"
     },
     "BeamGlowing transparent": {
       "Type"      : "Static",
@@ -52166,7 +52166,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "301",
-      "Texture"   : "rbxassetid://136624058127139"
+      "Texture"   : "rbxassetid://84566592396768"
     },
     "BeamHigh pixelated": {
       "Type"      : "Static",
@@ -52446,7 +52446,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://103707760574120"
+      "Texture"   : "rbxassetid://70695543956226"
     },
     "BeamDebris": {
       "Type"      : "Static",
@@ -53510,7 +53510,7 @@
       "Tags"      : ["Other"],
       "Credits"   : "?",
       "Resolution": "420",
-      "Texture"   : "rbxassetid://128318729526779"
+      "Texture"   : "rbxassetid://127911089797653"
     },
     "BeamThinning lines": {
       "Type"      : "Static",
@@ -53622,7 +53622,7 @@
       "Tags"      : ["Other"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://12352703565"
+      "Texture"   : "rbxassetid://78081979834607"
     },
     "BeamMovement": {
       "Type"      : "Static",
@@ -53813,12 +53813,12 @@
       "Resolution": "1023",
       "Texture"   : "rbxassetid://107624017803706"
     },
-    "BeamCheckerboard beam": {
+    "Thin lazer beam": {
       "Type"      : "Static",
       "Tags"      : ["Other"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://14364459325"
+      "Texture"   : "rbxassetid://127403552769755"
     },
     "BeamChain 7": {
       "Type"      : "Static",
@@ -54042,7 +54042,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://107746228303534"
+      "Texture"   : "rbxassetid://74254344820712"
     },
     "Beam5": {
       "Type"      : "Static",
@@ -54182,7 +54182,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://70464235210468"
+      "Texture"   : "rbxassetid://87500564219240"
     },
     "Striped Beam 2": {
       "Type"      : "Static",
@@ -54287,7 +54287,7 @@
       "Tags"      : ["Energy"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://77138300891135"
+      "Texture"   : "rbxassetid://128668393586170"
     },
     "BeamNew29": {
       "Type"      : "Static",
