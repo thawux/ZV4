@@ -320,7 +320,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "420",
-      "Texture"   : "rbxassetid://104320090741057"
+      "Texture"   : "rbxassetid://91773686965612"
     },
     "Emoji Face55": {
       "Type"      : "4x4",
@@ -10901,13 +10901,6 @@
       "Resolution": "1024",
       "Credits"   : "?"
     },
-    "Shining Chromatic Needles Lens 4x4": {
-      "Type"      : "4x4",
-      "Tags"      : ["Flare"],
-      "Credits"   : "?",
-      "Resolution": "1024",
-      "Texture"   : "rbxassetid://132062131715875"
-    },
     "Detailed": {
       "Type"      : "Static",
       "Tags"      : ["Crescent"],
@@ -11032,7 +11025,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://139188963526288"
+      "Texture"   : "rbxassetid://121918747989188"
     },
     "Medium Water Swirl": {
       "Type"      : "4x4",
@@ -17320,7 +17313,7 @@
     "Flare26New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://117706826014675",
+      "Texture"   : "rbxassetid://104916479119141",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -19918,7 +19911,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://133985360018144"
+      "Texture"   : "rbxassetid://137194554667293"
     },
     "Thicker Fading Star": {
       "Type"      : "Static",
@@ -20053,8 +20046,8 @@
       "Resolution": "1024",
       "Credits"   : "?"
     },
-    "Unique Stylized Chromatic Lens 4x4": {
-      "Type"      : "4x4",
+    "Fixed Static Lens": {
+      "Type"      : "Static",
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
@@ -21551,7 +21544,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://120259914024320"
+      "Texture"   : "rbxassetid://116979436776850"
     },
     "Bubble Pop": {
       "Type"      : "4x4",
@@ -23205,7 +23198,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "508",
-      "Texture"   : "rbxassetid://94637194408301"
+      "Texture"   : "rbxassetid://106081787405131"
     },
     "Clock hand 4": {
       "Type"      : "Static",
@@ -23673,7 +23666,7 @@
     "Flare11New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://112694485951119",
+      "Texture"   : "rbxassetid://103268928953342",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -24075,7 +24068,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://85120901255379"
+      "Texture"   : "rbxassetid://101008820731378"
     },
     "Stylized pyramid": {
       "Type"      : "Static",
@@ -24979,7 +24972,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://82878965324111"
+      "Texture"   : "rbxassetid://91032344838402"
     },
     "realistic eyes 8x8": {
       "Type"      : "8x8",
@@ -25163,13 +25156,6 @@
       "Resolution": "1024",
       "Credits"   : "?"
     },
-    "Chromatic Lines Flipping Lens Flare 4x4": {
-      "Type"      : "4x4",
-      "Tags"      : ["Flare"],
-      "Credits"   : "?",
-      "Resolution": "1024",
-      "Texture"   : "rbxassetid://70453757232424"
-    },
     "Swirls17": {
       "Type"      : "4x4",
       "Tags"      : ["Swirl"],
@@ -25252,7 +25238,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://135829147174382"
+      "Texture"   : "rbxassetid://88437066130892"
     },
     "kite": {
       "Type"      : "Static",
@@ -26024,7 +26010,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://101207960082124"
+      "Texture"   : "rbxassetid://76150921637651"
     },
     "upside down \"U\" with bars": {
       "Type"      : "Static",
@@ -27087,7 +27073,7 @@
     "Flare8New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://88089747357743",
+      "Texture"   : "rbxassetid://76244402967792",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -46559,7 +46545,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://120117257432200"
+      "Texture"   : "rbxassetid://135916722002747"
     },
     "Spec11": {
       "Type"      : "4x4",
