@@ -25252,7 +25252,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://140109954219723"
+      "Texture"   : "rbxassetid://71373100431956"
     },
     "Pixelart Texture": {
       "Type"      : "4x4",
@@ -25526,7 +25526,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://93817271375988"
+      "Texture"   : "rbxassetid://109199657338983"
     },
     "Flare218New": {
       "Type"      : "Static",
@@ -25902,7 +25902,7 @@
     "Flare61New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://81191250778115",
+      "Texture"   : "rbxassetid://92369337101918",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -27012,7 +27012,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://75248845338108"
+      "Texture"   : "rbxassetid://124774558677703"
     },
     "Flare127New": {
       "Type"      : "Static",
@@ -28282,7 +28282,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://101249965804852"
+      "Texture"   : "rbxassetid://72686270566862"
     },
     "Circle12": {
       "Type"      : "Static",
@@ -28760,12 +28760,12 @@
       "Resolution": "687",
       "Texture"   : "rbxassetid://17649753753"
     },
-    "Flare171New": {
+    "Pixelated Flare Lines": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "420",
-      "Texture"   : "rbxassetid://116769759086483"
+      "Texture"   : "rbxassetid://136107314749359"
     },
     "Small Glitchy Chromatic Slash": {
       "Type"      : "4x4",
@@ -30081,7 +30081,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://81716024835482"
+      "Texture"   : "rbxassetid://114550879581183"
     },
     "Fading Chromatic Continue": {
       "Type"      : "4x4",
@@ -30284,7 +30284,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://91132703136005"
+      "Texture"   : "rbxassetid://85839088549172"
     },
     "short ghost": {
       "Type"      : "Static",
@@ -40429,7 +40429,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "128",
-      "Texture"   : "rbxassetid://139908778394867"
+      "Texture"   : "rbxassetid://79986270208898"
     },
     "moon 2": {
       "Type"      : "Static",
@@ -42732,7 +42732,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://77818149846860"
+      "Texture"   : "rbxassetid://121909994574049"
     },
     "Faint Super Glowy Matrix Shape 4x4": {
       "Type"      : "4x4",
