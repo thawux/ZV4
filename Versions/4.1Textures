@@ -10857,7 +10857,7 @@
       "Tags"      : ["Other"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://10547195174"
+      "Texture"   : "rbxassetid://96262611638871"
     },
     "Chromatic Wisp 2": {
       "Type"      : "Static",
@@ -11684,7 +11684,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://12713358795"
+      "Texture"   : "rbxassetid://133744992799968"
     },
     "Growing rose": {
       "Type"      : "4x4",
@@ -12739,7 +12739,7 @@
     "Flare2New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://88760367606488",
+      "Texture"   : "rbxassetid://86501970142768",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -13495,7 +13495,7 @@
     "Flare5New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://101781714096946",
+      "Texture"   : "rbxassetid://79582955166928",
       "Resolution": "1024",
       "Credits"   : "?"
     },
