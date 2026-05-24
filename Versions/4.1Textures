@@ -11994,13 +11994,6 @@
       "Resolution": "256",
       "Texture"   : "rbxassetid://80300446146363"
     },
-    "Jar_Of_Souls_Noise": {
-      "Type"      : "Static",
-      "Tags"      : ["Effect"],
-      "Texture"   : "rbxassetid://97972542441828",
-      "Resolution": "256",
-      "Credits"   : "?"
-    },
     "Pulsing Fog": {
       "Type"      : "8x8",
       "Tags"      : ["Smoke"],
@@ -12034,7 +12027,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11724200186"
+      "Texture"   : "rbxassetid://82564959576536"
     },
     "Dark Round Lightning": {
       "Type"      : "4x4",
@@ -14048,7 +14041,7 @@
     "Flare54New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://71816499659036",
+      "Texture"   : "rbxassetid://100800863396486",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -19094,7 +19087,7 @@
       "Tags"      : ["Impact"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15502010285"
+      "Texture"   : "rbxassetid://96004256181711"
     },
     "Glowing Abstract Pixel Specs 4x4": {
       "Type"      : "4x4",
@@ -20056,7 +20049,7 @@
     "Flare55New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://118645744975716",
+      "Texture"   : "rbxassetid://85532556522637",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -22298,7 +22291,7 @@
     "Rainbow1": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://98325976360706",
+      "Texture"   : "rbxassetid://103587589332648",
       "Resolution": "487",
       "Credits"   : "?"
     },
@@ -24362,7 +24355,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501782488"
+      "Texture"   : "rbxassetid://73181233056936"
     },
     "Semitransparent Triangle": {
       "Type"      : "4x4",
@@ -25448,7 +25441,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037550885"
+      "Texture"   : "rbxassetid://101834145693976"
     },
     "Crescent24": {
       "Type"      : "Static",
@@ -25989,7 +25982,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "658",
-      "Texture"   : "rbxassetid://224019254"
+      "Texture"   : "rbxassetid://82081432746690"
     },
     "Coloured Pixel Burst": {
       "Type"      : "4x4",
@@ -27861,7 +27854,7 @@
       "Tags"      : ["Spec"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037541614"
+      "Texture"   : "rbxassetid://74184832343448"
     },
     "Dark Chromatic Static Smoke 2": {
       "Type"      : "8x8",
@@ -28063,7 +28056,7 @@
     "Flare15New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://126735446533263",
+      "Texture"   : "rbxassetid://93199624521486",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -28835,7 +28828,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "658",
-      "Texture"   : "rbxassetid://223123319"
+      "Texture"   : "rbxassetid://95869785906623"
     },
     "Star125": {
       "Type"      : "Static",
@@ -28863,7 +28856,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037550488"
+      "Texture"   : "rbxassetid://139004195634098"
     },
     "Moon": {
       "Type"      : "4x4",
@@ -28968,7 +28961,7 @@
       "Tags"      : ["Spec"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://11037545255"
+      "Texture"   : "rbxassetid://95332987787698"
     },
     "Water27": {
       "Type"      : "8x8",
@@ -29234,7 +29227,7 @@
       "Tags"      : ["Impact"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://1006711101"
+      "Texture"   : "rbxassetid://92091610168906"
     },
     "Other33": {
       "Type"      : "8x8",
@@ -29964,10 +29957,10 @@
       "Resolution": "1024",
       "Credits"   : "?"
     },
-    "DH_rapidFireRune_missiles_flashSlice_blend - Copy": {
+    "Wick Energy": {
       "Type"      : "Static",
       "Tags"      : ["Effect"],
-      "Texture"   : "rbxassetid://96150443207826",
+      "Texture"   : "rbxassetid://86264542760129",
       "Resolution": "128x256",
       "Credits"   : "?"
     },
@@ -32148,13 +32141,6 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://134160165648626"
     },
-    "Flare53New": {
-      "Type"      : "Static",
-      "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://98751512150903",
-      "Resolution": "1024",
-      "Credits"   : "?"
-    },
     "Sideways Spec 49": {
       "Type"      : "Static",
       "Tags"      : ["Spec"],
@@ -32435,13 +32421,6 @@
       "Credits"   : "?",
       "Resolution": "1023",
       "Texture"   : "rbxassetid://18333562947"
-    },
-    "Flare158New": {
-      "Type"      : "Static",
-      "Tags"      : ["Flare"],
-      "Credits"   : "?",
-      "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501861373"
     },
     "Flare266New": {
       "Type"      : "Static",
@@ -33020,7 +32999,7 @@
     "Flare6New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://133641215892314",
+      "Texture"   : "rbxassetid://102088554172203",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -33209,7 +33188,7 @@
     "Flare56New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://72013284286810",
+      "Texture"   : "rbxassetid://84737525016118",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -34319,7 +34298,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "600",
-      "Texture"   : "rbxassetid://11902373427"
+      "Texture"   : "rbxassetid://72949476552692"
     },
     "circle6": {
       "Type"      : "Static",
@@ -34845,7 +34824,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501855369"
+      "Texture"   : "rbxassetid://80327993507769"
     },
     "Hollow Paper": {
       "Type"      : "4x4",
@@ -34861,10 +34840,10 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://11864614229"
     },
-    "flash_arcaneShard_03_blend - Copy": {
+    "Nova Flare": {
       "Type"      : "Static",
       "Tags"      : ["Effect"],
-      "Texture"   : "rbxassetid://97972542441828",
+      "Texture"   : "rbxassetid://120412261895804",
       "Resolution": "256",
       "Credits"   : "?"
     },
@@ -34908,7 +34887,7 @@
       "Tags"      : ["Impact"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11724267870"
+      "Texture"   : "rbxassetid://111771400243183"
     },
     "Chromatic sharp flame": {
       "Type"      : "4x4",
@@ -35197,13 +35176,6 @@
       "Resolution": "3300",
       "Credits"   : "?"
     },
-    "Spinning Disk X": {
-      "Type"      : "4x4",
-      "Tags"      : ["Other"],
-      "Credits"   : "@Qwinkletee",
-      "Resolution": "1024",
-      "Texture"   : "rbxassetid://17517672182"
-    },
     "Grey Smoke 2": {
       "Type"      : "4x4",
       "Tags"      : ["Smoke"],
@@ -35328,7 +35300,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037552515"
+      "Texture"   : "rbxassetid://87689182884969"
     },
     "Wide flame 2": {
       "Type"      : "4x4",
@@ -35617,12 +35589,12 @@
       "Resolution": "256",
       "Texture"   : "rbxassetid://93621755525458"
     },
-    "Black semicircle": {
+    "Fixed semicircle": {
       "Type"      : "Static",
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://2384354542"
+      "Texture"   : "rbxassetid://130374570072151"
     },
     "Blurred Spec 25": {
       "Type"      : "Static",
@@ -37311,7 +37283,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "339",
-      "Texture"   : "rbxassetid://11902545845"
+      "Texture"   : "rbxassetid://101196637760316"
     },
     "Star Animation": {
       "Type"      : "8x8",
@@ -37625,7 +37597,7 @@
     "Flare12New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://114867179352438",
+      "Texture"   : "rbxassetid://125215686348614",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -37793,7 +37765,7 @@
     "Flare21New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://89762674058071",
+      "Texture"   : "rbxassetid://91851431874234",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -37921,7 +37893,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "347",
-      "Texture"   : "rbxassetid://11902401640"
+      "Texture"   : "rbxassetid://124418061318562"
     },
     "Impact74": {
       "Type"      : "Static",
@@ -38101,7 +38073,7 @@
     "Flare3New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://111423027888690",
+      "Texture"   : "rbxassetid://82247070941634",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -38998,7 +38970,7 @@
     "Flare24New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://76152181726382",
+      "Texture"   : "rbxassetid://91112950638718",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -42830,7 +42802,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501860320"
+      "Texture"   : "rbxassetid://98315577057019"
     },
     "Low Res Hori Lightning": {
       "Type"      : "4x4",
@@ -43061,7 +43033,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037558493"
+      "Texture"   : "rbxassetid://71876948398292"
     },
     "Patchy Crescent": {
       "Type"      : "8x8",
@@ -43096,7 +43068,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501784243"
+      "Texture"   : "rbxassetid://91574125748897"
     },
     "Circular Impact Pop 4x4": {
       "Type"      : "4x4",
@@ -43159,7 +43131,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037548260"
+      "Texture"   : "rbxassetid://109091494430859"
     },
     "New184": {
       "Type"      : "Static",
@@ -43215,7 +43187,7 @@
       "Tags"      : ["Circle"],
       "Credits"   : "?",
       "Resolution": "347",
-      "Texture"   : "rbxassetid://11902398938"
+      "Texture"   : "rbxassetid://129524651773980"
     },
     "Impact138": {
       "Type"      : "Static",
@@ -43411,7 +43383,7 @@
       "Tags"      : ["Spec"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://1084987256"
+      "Texture"   : "rbxassetid://100800485586209"
     },
     "Energy AOE": {
       "Type"      : "2x2",
@@ -44137,7 +44109,7 @@
     "Flare13New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://92545360362693",
+      "Texture"   : "rbxassetid://113836714994837",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -48466,13 +48438,6 @@
       "Type"      : "4x4",
       "Tags"      : ["Impact"],
       "Texture"   : "rbxassetid://112250384058536",
-      "Resolution": "1024",
-      "Credits"   : "?"
-    },
-    "Watery Swirl": {
-      "Type"      : "4x4",
-      "Tags"      : ["Swirl"],
-      "Texture"   : "rbxassetid://97914028323378",
       "Resolution": "1024",
       "Credits"   : "?"
     },
