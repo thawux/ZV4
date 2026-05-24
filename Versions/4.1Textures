@@ -45059,10 +45059,10 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://82037921557112"
     },
-    "witchDoctor_bigbadvoodoo_groundRune_crimson_blend": {
+    "Inverted Witch Rune": {
       "Type"      : "Static",
       "Tags"      : ["Effect"],
-      "Texture"   : "rbxassetid://123737947904116",
+      "Texture"   : "rbxassetid://80643261093020",
       "Resolution": "512",
       "Credits"   : "?"
     },
