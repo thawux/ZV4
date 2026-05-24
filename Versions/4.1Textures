@@ -206,7 +206,7 @@
     "Flare58New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://92027428183739",
+      "Texture"   : "rbxassetid://112337977005460",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -229,7 +229,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://71661341184430"
+      "Texture"   : "rbxassetid://110493751010850"
     },
     "Other99": {
       "Type"      : "Static",
@@ -1179,7 +1179,7 @@
     "Flare24": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://71103153647803",
+      "Texture"   : "rbxassetid://83508787213584",
       "Resolution": "512",
       "Credits"   : "?"
     },
@@ -1473,7 +1473,7 @@
     "Rainbow5": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://77013648952788",
+      "Texture"   : "rbxassetid://92152348531600",
       "Resolution": "420",
       "Credits"   : "?"
     },
@@ -1546,7 +1546,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://114536816880333"
+      "Texture"   : "rbxassetid://135149314975230"
     },
     "Star102": {
       "Type"      : "Static",
@@ -3689,7 +3689,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://72720629610262"
+      "Texture"   : "rbxassetid://122298792276419"
     },
     "Impact5022": {
       "Type"      : "2x2",
@@ -4229,7 +4229,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://102590233757254"
+      "Texture"   : "rbxassetid://137767366889458"
     },
     "Star91": {
       "Type"      : "Static",
