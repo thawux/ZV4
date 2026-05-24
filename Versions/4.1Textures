@@ -3619,7 +3619,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037533424"
+      "Texture"   : "rbxassetid://87107549833517"
     },
     "PiercedCircle": {
       "Type"      : "Static",
@@ -3843,7 +3843,7 @@
       "Tags"      : ["Impact"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501920566"
+      "Texture"   : "rbxassetid://133597604776072"
     },
     "Shaded Slash 24": {
       "Type"      : "4x4",
@@ -4529,7 +4529,7 @@
     "Flare48New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://136683394564289",
+      "Texture"   : "rbxassetid://79541812449694",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -4720,7 +4720,7 @@
       "Tags"      : ["Impact"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://17510998152"
+      "Texture"   : "rbxassetid://133920186276203"
     },
     "Clock": {
       "Type"      : "Static",
@@ -4902,7 +4902,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037548844"
+      "Texture"   : "rbxassetid://82193360853926"
     },
     "right pointing triangle with border": {
       "Type"      : "Static",
@@ -4951,7 +4951,7 @@
       "Tags"      : ["Spec"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://8944381800"
+      "Texture"   : "rbxassetid://87904104613018"
     },
     "Pixelated Snowflake 2 4x4": {
       "Type"      : "4x4",
@@ -5861,7 +5861,7 @@
     "Flare7New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://96292832837989",
+      "Texture"   : "rbxassetid://75893463697742",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -5919,7 +5919,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "512",
-      "Texture"   : "rbxassetid://11037549698"
+      "Texture"   : "rbxassetid://112436973538514"
     },
     "Pixelated Smoke 2": {
       "Type"      : "Static",
@@ -5931,7 +5931,7 @@
     "Flare20New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://70728001087698",
+      "Texture"   : "rbxassetid://134124094076855",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -6437,7 +6437,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://15501809370"
+      "Texture"   : "rbxassetid://125971736301956"
     },
     "Glowing Chromatic Abstract Pixel Specs 4x4": {
       "Type"      : "4x4",
@@ -6778,7 +6778,7 @@
     "Flare50New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://112666374765656",
+      "Texture"   : "rbxassetid://86763367876410",
       "Resolution": "1024",
       "Credits"   : "?"
     },
