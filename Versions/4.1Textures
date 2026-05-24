@@ -899,7 +899,7 @@
     "Flare57New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://114854482195322",
+      "Texture"   : "rbxassetid://128884869901950",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -1083,7 +1083,7 @@
       "Tags"      : ["Lightning"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://10524184224"
+      "Texture"   : "rbxassetid://81669958276855"
     },
     "Rainbow Expansion": {
       "Type"      : "4x4",
@@ -1532,7 +1532,7 @@
       "Tags"      : ["Flare"],
       "Credits"   : "?",
       "Resolution": "256",
-      "Texture"   : "rbxassetid://18355979113"
+      "Texture"   : "rbxassetid://89284632673030"
     },
     "Three Sided Target": {
       "Type"      : "Static",
@@ -2742,7 +2742,7 @@
     "Flare52New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://90739458017107",
+      "Texture"   : "rbxassetid://134850541344666",
       "Resolution": "1024",
       "Credits"   : "?"
     },
@@ -2805,7 +2805,7 @@
     "Flare41New": {
       "Type"      : "Static",
       "Tags"      : ["Flare"],
-      "Texture"   : "rbxassetid://111719547931010",
+      "Texture"   : "rbxassetid://109412417718162",
       "Resolution": "1024",
       "Credits"   : "?"
     },
