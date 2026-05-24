@@ -9417,12 +9417,12 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://81070375148187"
     },
-    "Absorbing LE": {
+    "Absorbing Fixed": {
       "Type"      : "8x8",
       "Tags"      : ["Swirl"],
       "Credits"   : "?",
       "Resolution": "1024",
-      "Texture"   : "rbxassetid://10536262477"
+      "Texture"   : "rbxassetid://116489954770690"
     },
     "flower": {
       "Type"      : "Static",
@@ -9585,10 +9585,10 @@
       "Resolution": "1024",
       "Texture"   : "rbxassetid://17125333780"
     },
-    "DH_clusterArrow_point_blend - Copy": {
+    "": {
       "Type"      : "Static",
       "Tags"      : ["Effect"],
-      "Texture"   : "rbxassetid://84911647663725",
+      "Texture"   : "rbxassetid://137352418041966",
       "Resolution": "256x512",
       "Credits"   : "?"
     },
@@ -20564,7 +20564,7 @@
       "Resolution": "384",
       "Credits"   : "?"
     },
-    "DH_cluster_head - Copy": {
+    "White energy cluster": {
       "Type"      : "Static",
       "Tags"      : ["Effect"],
       "Texture"   : "rbxassetid://121600872634594",
