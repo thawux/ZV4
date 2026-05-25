@@ -4414,7 +4414,7 @@ do
 		node.Rotation = 0
 		node.Selectable = true
 		node.SelectionOrder = 0
-		node.Size = UDim2.new(0.8999999761581421, 0, 0, 30)
+		node.Size = UDim2.new(0.8999999761581421, 0, 0, 20)
 		node.SizeConstraint = Enum.SizeConstraint.RelativeXY
 		node.Visible = true
 		node.ZIndex = 1
@@ -16206,11 +16206,11 @@ do
 				node.BorderSizePixel = 0
 				node.ClipsDescendants = true
 				node.LayoutOrder = 0
-				node.Position = UDim2.new(0, 10, 0, -10)
+				node.Position = UDim2.new(0, 10, 0, -9)
 				node.Rotation = 0
 				node.Selectable = false
 				node.SelectionOrder = 0
-				node.Size = UDim2.new(0, 150, 0, 0)
+				node.Size = UDim2.new(0, 264, 0, 0)
 				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
 				node.Visible = false
 				node.ZIndex = 1
@@ -16300,7 +16300,7 @@ do
 					node.Archivable = true
 					node.AutoLocalize = true
 					node.Active = false
-					node.AnchorPoint = Vector2.new(0, 0.5)
+					node.AnchorPoint = Vector2.new(0, 0)
 					node.AutomaticSize = Enum.AutomaticSize.XY
 					node.BackgroundColor3 = Color3.new(1, 1, 1)
 					node.BackgroundTransparency = 1
@@ -16309,7 +16309,7 @@ do
 					node.BorderSizePixel = 0
 					node.ClipsDescendants = false
 					node.LayoutOrder = 0
-					node.Position = UDim2.new(0, 0, 0.5, 0)
+					node.Position = UDim2.new(0, 0, 0, 5)
 					node.Rotation = 0
 					node.Selectable = false
 					node.SelectionOrder = 0
@@ -16629,6 +16629,746 @@ do
 					node.Archivable = true
 					node.CornerRadius = UDim.new(0, 5)
 					node.Parent = parent
+				end
+			end
+			do
+				local parent = node
+				local node = Instance.new("ImageButton")
+				node.Name = "Edit"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = true
+				node.AnchorPoint = Vector2.new(1, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.None
+				node.BackgroundColor3 = Color3.new(1, 1, 1)
+				node.BackgroundTransparency = 0
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = true
+				node.LayoutOrder = 0
+				node.Position = UDim2.new(0.972000002861023, -195, 0.6299999952316284, 0)
+				node.Rotation = 0
+				node.Selectable = true
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(0, 47, 0, 47)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.AutoButtonColor = false
+				node.Modal = false
+				node.Selected = false
+				node.Style = Enum.ButtonStyle.Custom
+				node.HoverImage = ""
+				node.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+				node.ImageContent = Content.fromUri("rbxasset://textures/ui/GuiImagePlaceholder.png")
+				node.ImageColor3 = Color3.new(1, 1, 1)
+				node.ImageRectOffset = Vector2.new(0, 0)
+				node.ImageRectSize = Vector2.new(0, 0)
+				node.ImageTransparency = 1
+				node.PressedImage = ""
+				node.ResampleMode = Enum.ResamplerMode.Default
+				node.ScaleType = Enum.ScaleType.Stretch
+				node.SliceCenter = Rect.new(0, 0, 0, 0)
+				node.SliceScale = 1
+				node.TileSize = UDim2.new(1, 0, 1, 0)
+				node:SetAttribute("ThemeIgnoreImageColor", true)
+				node:SetAttribute("ThemeBackgroundColor", "HighlightColour")
+				node.Parent = parent
+				do
+					local parent = node
+					local node = Instance.new("UICorner")
+					node.Name = "UICorner"
+					node.Archivable = true
+					node.CornerRadius = UDim.new(0, 8)
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("ImageButton")
+					node.Name = "Text"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0.5, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.None
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0.49308449029922485, 0, 0.5069119930267334, 0)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(0.6734040379524231, 0, 0.6734036803245544, 0)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 0
+					node.AutoButtonColor = false
+					node.Modal = false
+					node.Selected = false
+					node.Style = Enum.ButtonStyle.Custom
+					node.HoverImage = ""
+					node.Image = "rbxassetid://84302612681805"
+					node.ImageContent = Content.fromUri("rbxassetid://84302612681805")
+					node.ImageColor3 = Color3.new(1, 1, 1)
+					node.ImageRectOffset = Vector2.new(0, 0)
+					node.ImageRectSize = Vector2.new(0, 0)
+					node.ImageTransparency = 0
+					node.PressedImage = ""
+					node.ResampleMode = Enum.ResamplerMode.Default
+					node.ScaleType = Enum.ScaleType.Fit
+					node.SliceCenter = Rect.new(0, 0, 0, 0)
+					node.SliceScale = 1
+					node.TileSize = UDim2.new(1, 0, 1, 0)
+					node:SetAttribute("ThemeIgnoreImageColor", true)
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIStroke")
+					node.Name = "UIStroke"
+					node.Archivable = true
+					node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+					node.Color = Color3.new(0.772549033164978, 0.772549033164978, 0.772549033164978)
+					node.Enabled = true
+					node.LineJoinMode = Enum.LineJoinMode.Round
+					node.Thickness = 2
+					node.Transparency = 0
+					node.Parent = parent
+					do
+						local parent = node
+						local node = Instance.new("UIGradient")
+						node.Name = "UIGradient"
+						node.Archivable = true
+						node.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0.6823530197143555, 0.2980389893054962, 1)), ColorSequenceKeypoint.new(1, Color3.new(0.062745101749897, 0.23529399931430817, 1))})
+						node.Enabled = true
+						node.Offset = Vector2.new(0, 0)
+						node.Rotation = 60
+						node.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0, 0), NumberSequenceKeypoint.new(1, 0, 0)})
+						node.Parent = parent
+					end
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIGradient")
+					node.Name = "UIGradient"
+					node.Archivable = true
+					node.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(0.6823530197143555, 0.2980389893054962, 1)), ColorSequenceKeypoint.new(1, Color3.new(0.062745101749897, 0.23529399931430817, 1))})
+					node.Enabled = true
+					node.Offset = Vector2.new(0, 0)
+					node.Rotation = 60
+					node.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0, 0), NumberSequenceKeypoint.new(1, 0, 0)})
+					node.Parent = parent
+				end
+			end
+		end
+		do
+			local parent = node
+			local node = Instance.new("Frame")
+			node.Name = "EditMeshFlipbook"
+			node.Archivable = true
+			node.AutoLocalize = true
+			node.Active = false
+			node.AnchorPoint = Vector2.new(0.5, 0.5)
+			node.AutomaticSize = Enum.AutomaticSize.None
+			node.BackgroundColor3 = Color3.new(1, 1, 1)
+			node.BackgroundTransparency = 1
+			node.BorderColor3 = Color3.new(0, 0, 0)
+			node.BorderMode = Enum.BorderMode.Outline
+			node.BorderSizePixel = 0
+			node.ClipsDescendants = false
+			node.LayoutOrder = 0
+			node.Position = UDim2.new(0.5, 0, 0.5, 0)
+			node.Rotation = 0
+			node.Selectable = false
+			node.SelectionOrder = 0
+			node.Size = UDim2.new(1, 0, 1, 0)
+			node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+			node.Visible = false
+			node.ZIndex = 1
+			node.Style = Enum.FrameStyle.Custom
+			node.Parent = parent
+			do
+				local parent = node
+				local node = Instance.new("ImageButton")
+				node.Name = "Confirm"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = true
+				node.AnchorPoint = Vector2.new(1, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.None
+				node.BackgroundColor3 = Color3.new(0.8980392813682556, 0.8980392813682556, 0.8980392813682556)
+				node.BackgroundTransparency = 0
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = true
+				node.LayoutOrder = 0
+				node.Position = UDim2.new(1, -10, 1, -30)
+				node.Rotation = 0
+				node.Selectable = true
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(0, 100, 0, 40)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.AutoButtonColor = false
+				node.Modal = false
+				node.Selected = false
+				node.Style = Enum.ButtonStyle.Custom
+				node.HoverImage = ""
+				node.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+				node.ImageContent = Content.fromUri("rbxasset://textures/ui/GuiImagePlaceholder.png")
+				node.ImageColor3 = Color3.new(1, 1, 1)
+				node.ImageRectOffset = Vector2.new(0, 0)
+				node.ImageRectSize = Vector2.new(0, 0)
+				node.ImageTransparency = 1
+				node.PressedImage = ""
+				node.ResampleMode = Enum.ResamplerMode.Default
+				node.ScaleType = Enum.ScaleType.Stretch
+				node.SliceCenter = Rect.new(0, 0, 0, 0)
+				node.SliceScale = 1
+				node.TileSize = UDim2.new(1, 0, 1, 0)
+				node:SetAttribute("ThemeImageColor", "HighlightColour")
+				node.Parent = parent
+				do
+					local parent = node
+					local node = Instance.new("TextLabel")
+					node.Name = "Text"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0.5, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.XY
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0.5, 0, 0.5, 0)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(0, 0, 0, 0)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+					node.LineHeight = 1
+					node.MaxVisibleGraphemes = -1
+					node.RichText = true
+					node.Text = "Confirm"
+					node.TextColor3 = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.TextDirection = Enum.TextDirection.Auto
+					node.TextScaled = false
+					node.TextSize = 27
+					node.TextStrokeColor3 = Color3.new(0, 0, 0)
+					node.TextStrokeTransparency = 1
+					node.TextTransparency = 0
+					node.TextTruncate = Enum.TextTruncate.None
+					node.TextWrapped = false
+					node.TextXAlignment = Enum.TextXAlignment.Center
+					node.TextYAlignment = Enum.TextYAlignment.Center
+					node:SetAttribute("ThemeTextColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIStroke")
+					node.Name = "UIStroke"
+					node.Archivable = true
+					node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+					node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.Enabled = true
+					node.LineJoinMode = Enum.LineJoinMode.Round
+					node.Thickness = 2
+					node.Transparency = 0
+					node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UICorner")
+					node.Name = "UICorner"
+					node.Archivable = true
+					node.CornerRadius = UDim.new(0, 5)
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIGradient")
+					node.Name = "UIGradient"
+					node.Archivable = true
+					node.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.4732300043106079, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.6511229872703552, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774)), ColorSequenceKeypoint.new(1, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774))})
+					node.Enabled = true
+					node.Offset = Vector2.new(0, 0)
+					node.Rotation = 45
+					node.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0, 0), NumberSequenceKeypoint.new(1, 0, 0)})
+					node.Parent = parent
+				end
+			end
+			do
+				local parent = node
+				local node = Instance.new("Frame")
+				node.Name = "Options"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = false
+				node.AnchorPoint = Vector2.new(0, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.None
+				node.BackgroundColor3 = Color3.new(1, 1, 1)
+				node.BackgroundTransparency = 1
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = false
+				node.LayoutOrder = 0
+				node.Position = UDim2.new(0, 10, 0.5, 0)
+				node.Rotation = 0
+				node.Selectable = false
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(1, -130, 0, 90)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.Style = Enum.FrameStyle.Custom
+				node.Parent = parent
+				do
+					local parent = node
+					local node = Instance.new("Frame")
+					node.Name = "Basic"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.None
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0, 0, 0, 20)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(1, 100, 0, 35)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.Style = Enum.FrameStyle.Custom
+					node.Parent = parent
+					do
+						local parent = node
+						local node = Instance.new("TextBox")
+						node.Name = "MeshFlipbookName"
+						node.Archivable = true
+						node.AutoLocalize = true
+						node.Active = true
+						node.AnchorPoint = Vector2.new(0, 0.5)
+						node.AutomaticSize = Enum.AutomaticSize.None
+						node.BackgroundColor3 = Color3.new(0.09803921729326248, 0.10196078568696976, 0.12156862765550613)
+						node.BackgroundTransparency = 0
+						node.BorderColor3 = Color3.new(0, 0, 0)
+						node.BorderMode = Enum.BorderMode.Outline
+						node.BorderSizePixel = 0
+						node.ClipsDescendants = true
+						node.LayoutOrder = 0
+						node.Position = UDim2.new(0, 0, 0.5, 0)
+						node.Rotation = 0
+						node.Selectable = true
+						node.SelectionOrder = 0
+						node.Size = UDim2.new(0, 0, 1, 0)
+						node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+						node.Visible = true
+						node.ZIndex = 1
+						node.ClearTextOnFocus = true
+						node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+						node.LineHeight = 1
+						node.MultiLine = false
+						node.PlaceholderColor3 = Color3.new(0.49803921580314636, 0.49803921580314636, 0.49803921580314636)
+						node.PlaceholderText = "Mesh Flipbook Name..."
+						node.RichText = true
+						node.Text = "Mesh Flipbook Name..."
+						node.TextColor3 = Color3.new(1, 1, 1)
+						node.TextDirection = Enum.TextDirection.Auto
+						node.TextEditable = true
+						node.TextScaled = false
+						node.TextSize = 15
+						node.TextStrokeColor3 = Color3.new(0, 0, 0)
+						node.TextStrokeTransparency = 1
+						node.TextTransparency = 0
+						node.TextTruncate = Enum.TextTruncate.AtEnd
+						node.TextWrapped = false
+						node.TextXAlignment = Enum.TextXAlignment.Center
+						node.TextYAlignment = Enum.TextYAlignment.Center
+						node:SetAttribute("ThemeTextColor", "HighlightColour")
+						node:SetAttribute("ThemePlaceholderColor", "HighlightColour")
+						node:SetAttribute("ThemeBackgroundColor", "MainColour")
+						node.Parent = parent
+						do
+							local parent = node
+							local node = Instance.new("UICorner")
+							node.Name = "UICorner"
+							node.Archivable = true
+							node.CornerRadius = UDim.new(0, 5)
+							node.Parent = parent
+						end
+						do
+							local parent = node
+							local node = Instance.new("UIFlexItem")
+							node.Name = "UIFlexItem"
+							node.Archivable = true
+							node.FlexMode = Enum.UIFlexMode.Custom
+							node.GrowRatio = 2
+							node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+							node.ShrinkRatio = 0
+							node.Parent = parent
+						end
+					end
+					do
+						local parent = node
+						local node = Instance.new("UIListLayout")
+						node.Name = "UIListLayout"
+						node.Archivable = true
+						node.FillDirection = Enum.FillDirection.Horizontal
+						node.HorizontalFlex = Enum.UIFlexAlignment.Fill
+						node.HorizontalAlignment = Enum.HorizontalAlignment.Left
+						node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+						node.Padding = UDim.new(0, 5)
+						node.SortOrder = Enum.SortOrder.LayoutOrder
+						node.VerticalFlex = Enum.UIFlexAlignment.None
+						node.VerticalAlignment = Enum.VerticalAlignment.Top
+						node.Wraps = false
+						node.Parent = parent
+					end
+				end
+				do
+					local parent = node
+					local node = Instance.new("Frame")
+					node.Name = "Advanced"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.None
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0, 0, 1, -25)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(1, 0, 0, 40)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.Style = Enum.FrameStyle.Custom
+					node.Parent = parent
+					do
+						local parent = node
+						local node = Instance.new("UIListLayout")
+						node.Name = "UIListLayout"
+						node.Archivable = true
+						node.FillDirection = Enum.FillDirection.Horizontal
+						node.HorizontalFlex = Enum.UIFlexAlignment.Fill
+						node.HorizontalAlignment = Enum.HorizontalAlignment.Left
+						node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+						node.Padding = UDim.new(0, 5)
+						node.SortOrder = Enum.SortOrder.LayoutOrder
+						node.VerticalFlex = Enum.UIFlexAlignment.None
+						node.VerticalAlignment = Enum.VerticalAlignment.Top
+						node.Wraps = false
+						node.Parent = parent
+					end
+					do
+						local parent = node
+						local node = Instance.new("ImageButton")
+						node.Name = "TagDropdown"
+						node.Archivable = true
+						node.AutoLocalize = true
+						node.Active = true
+						node.AnchorPoint = Vector2.new(0, 0.5)
+						node.AutomaticSize = Enum.AutomaticSize.None
+						node.BackgroundColor3 = Color3.new(1, 1, 1)
+						node.BackgroundTransparency = 1
+						node.BorderColor3 = Color3.new(0, 0, 0)
+						node.BorderMode = Enum.BorderMode.Outline
+						node.BorderSizePixel = 0
+						node.ClipsDescendants = false
+						node.LayoutOrder = 0
+						node.Position = UDim2.new(0, 10, 0.5, 0)
+						node.Rotation = 0
+						node.Selectable = true
+						node.SelectionOrder = 0
+						node.Size = UDim2.new(0, 0, 1, 0)
+						node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+						node.Visible = true
+						node.ZIndex = 1
+						node.AutoButtonColor = true
+						node.Modal = false
+						node.Selected = false
+						node.Style = Enum.ButtonStyle.Custom
+						node.HoverImage = ""
+						node.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+						node.ImageContent = Content.fromUri("rbxasset://textures/ui/GuiImagePlaceholder.png")
+						node.ImageColor3 = Color3.new(1, 1, 1)
+						node.ImageRectOffset = Vector2.new(0, 0)
+						node.ImageRectSize = Vector2.new(0, 0)
+						node.ImageTransparency = 1
+						node.PressedImage = ""
+						node.ResampleMode = Enum.ResamplerMode.Default
+						node.ScaleType = Enum.ScaleType.Stretch
+						node.SliceCenter = Rect.new(0, 0, 0, 0)
+						node.SliceScale = 1
+						node.TileSize = UDim2.new(1, 0, 1, 0)
+						node:SetAttribute("ThemeImageColor", "HighlightColour")
+						node.Parent = parent
+						do
+							local parent = node
+							local node = Instance.new("Frame")
+							node.Name = "Background"
+							node.Archivable = true
+							node.AutoLocalize = true
+							node.Active = false
+							node.AnchorPoint = Vector2.new(0.5, 0.5)
+							node.AutomaticSize = Enum.AutomaticSize.None
+							node.BackgroundColor3 = Color3.new(0.125490203499794, 0.13333334028720856, 0.15294118225574493)
+							node.BackgroundTransparency = 0
+							node.BorderColor3 = Color3.new(0, 0, 0)
+							node.BorderMode = Enum.BorderMode.Outline
+							node.BorderSizePixel = 0
+							node.ClipsDescendants = false
+							node.LayoutOrder = 0
+							node.Position = UDim2.new(0.5, 0, 0.5, 0)
+							node.Rotation = 0
+							node.Selectable = false
+							node.SelectionOrder = 0
+							node.Size = UDim2.new(1, 0, 1, 0)
+							node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+							node.Visible = true
+							node.ZIndex = 1
+							node.Style = Enum.FrameStyle.Custom
+							node:SetAttribute("ThemeBackgroundColor", "AccentColour")
+							node.Parent = parent
+							do
+								local parent = node
+								local node = Instance.new("UICorner")
+								node.Name = "UICorner"
+								node.Archivable = true
+								node.CornerRadius = UDim.new(0, 5)
+								node.Parent = parent
+							end
+							do
+								local parent = node
+								local node = Instance.new("UIStroke")
+								node.Name = "UIStroke"
+								node.Archivable = true
+								node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+								node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+								node.Enabled = true
+								node.LineJoinMode = Enum.LineJoinMode.Round
+								node.Thickness = 1
+								node.Transparency = 0
+								node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+								node.Parent = parent
+							end
+							do
+								local parent = node
+								local node = Instance.new("TextLabel")
+								node.Name = "Tip"
+								node.Archivable = true
+								node.AutoLocalize = true
+								node.Active = false
+								node.AnchorPoint = Vector2.new(0, 0.5)
+								node.AutomaticSize = Enum.AutomaticSize.XY
+								node.BackgroundColor3 = Color3.new(1, 1, 1)
+								node.BackgroundTransparency = 1
+								node.BorderColor3 = Color3.new(0, 0, 0)
+								node.BorderMode = Enum.BorderMode.Outline
+								node.BorderSizePixel = 0
+								node.ClipsDescendants = false
+								node.LayoutOrder = 0
+								node.Position = UDim2.new(0, 5, 0.5, 0)
+								node.Rotation = 0
+								node.Selectable = false
+								node.SelectionOrder = 0
+								node.Size = UDim2.new(0, 0, 0, 0)
+								node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+								node.Visible = true
+								node.ZIndex = 1
+								node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.Light, Enum.FontStyle.Normal)
+								node.LineHeight = 1
+								node.MaxVisibleGraphemes = -1
+								node.RichText = true
+								node.Text = "Mesh flipbook tags"
+								node.TextColor3 = Color3.new(1, 1, 1)
+								node.TextDirection = Enum.TextDirection.Auto
+								node.TextScaled = false
+								node.TextSize = 16
+								node.TextStrokeColor3 = Color3.new(0, 0, 0)
+								node.TextStrokeTransparency = 1
+								node.TextTransparency = 0.699999988079071
+								node.TextTruncate = Enum.TextTruncate.AtEnd
+								node.TextWrapped = false
+								node.TextXAlignment = Enum.TextXAlignment.Left
+								node.TextYAlignment = Enum.TextYAlignment.Center
+								node:SetAttribute("ThemeTextColor", "HighlightColour")
+								node.Parent = parent
+								do
+									local parent = node
+									local node = Instance.new("UIPadding")
+									node.Name = "UIPadding"
+									node.Archivable = true
+									node.PaddingBottom = UDim.new(0, 0)
+									node.PaddingLeft = UDim.new(0, 0)
+									node.PaddingRight = UDim.new(0, 30)
+									node.PaddingTop = UDim.new(0, 0)
+									node.Parent = parent
+								end
+							end
+							do
+								local parent = node
+								local node = Instance.new("ImageLabel")
+								node.Name = "Arrow"
+								node.Archivable = true
+								node.AutoLocalize = true
+								node.Active = false
+								node.AnchorPoint = Vector2.new(1, 0.5)
+								node.AutomaticSize = Enum.AutomaticSize.None
+								node.BackgroundColor3 = Color3.new(1, 1, 1)
+								node.BackgroundTransparency = 1
+								node.BorderColor3 = Color3.new(0, 0, 0)
+								node.BorderMode = Enum.BorderMode.Outline
+								node.BorderSizePixel = 0
+								node.ClipsDescendants = false
+								node.LayoutOrder = 0
+								node.Position = UDim2.new(1, 0, 0.5, 0)
+								node.Rotation = 0
+								node.Selectable = false
+								node.SelectionOrder = 0
+								node.Size = UDim2.new(0, 40, 0, 40)
+								node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+								node.Visible = true
+								node.ZIndex = 1
+								node.Image = "rbxassetid://135150695461010"
+								node.ImageContent = Content.fromUri("rbxassetid://135150695461010")
+								node.ImageColor3 = Color3.new(1, 1, 1)
+								node.ImageRectOffset = Vector2.new(0, 0)
+								node.ImageRectSize = Vector2.new(0, 0)
+								node.ImageTransparency = 0.699999988079071
+								node.ResampleMode = Enum.ResamplerMode.Default
+								node.ScaleType = Enum.ScaleType.Fit
+								node.SliceCenter = Rect.new(0, 0, 0, 0)
+								node.SliceScale = 1
+								node.TileSize = UDim2.new(1, 0, 1, 0)
+								node:SetAttribute("ThemeImageColor", "HighlightColour")
+								node.Parent = parent
+							end
+						end
+						do
+							local parent = node
+							local node = Instance.new("ScrollingFrame")
+							node.Name = "Dropdown"
+							node.Archivable = true
+							node.AutoLocalize = true
+							node.Active = true
+							node.AnchorPoint = Vector2.new(0.5, 1)
+							node.AutomaticSize = Enum.AutomaticSize.None
+							node.BackgroundColor3 = Color3.new(0.125490203499794, 0.13333334028720856, 0.15294118225574493)
+							node.BackgroundTransparency = 0
+							node.BorderColor3 = Color3.new(0, 0, 0)
+							node.BorderMode = Enum.BorderMode.Outline
+							node.BorderSizePixel = 0
+							node.ClipsDescendants = true
+							node.LayoutOrder = 0
+							node.Position = UDim2.new(0.5, 0, 0, -10)
+							node.Rotation = 0
+							node.Selectable = true
+							node.SelectionOrder = 0
+							node.Size = UDim2.new(1, 0, 0, 0)
+							node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+							node.Visible = false
+							node.ZIndex = 1
+							node.AutomaticCanvasSize = Enum.AutomaticSize.Y
+							node.BottomImage = "rbxasset://textures/ui/Scroll/scroll-bottom.png"
+							node.CanvasPosition = Vector2.new(0, 0)
+							node.CanvasSize = UDim2.new(0, 0, 0, 0)
+							node.ElasticBehavior = Enum.ElasticBehavior.WhenScrollable
+							node.HorizontalScrollBarInset = Enum.ScrollBarInset.None
+							node.MidImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
+							node.ScrollBarImageColor3 = Color3.new(0, 0, 0)
+							node.ScrollBarImageTransparency = 0
+							node.ScrollBarThickness = 0
+							node.ScrollingDirection = Enum.ScrollingDirection.XY
+							node.ScrollingEnabled = true
+							node.TopImage = "rbxasset://textures/ui/Scroll/scroll-top.png"
+							node.VerticalScrollBarInset = Enum.ScrollBarInset.None
+							node.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Right
+							node:SetAttribute("ThemeBackgroundColor", "AccentColour")
+							node.Parent = parent
+							do
+								local parent = node
+								local node = Instance.new("UIStroke")
+								node.Name = "UIStroke"
+								node.Archivable = true
+								node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+								node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+								node.Enabled = true
+								node.LineJoinMode = Enum.LineJoinMode.Round
+								node.Thickness = 1
+								node.Transparency = 0
+								node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+								node.Parent = parent
+							end
+							do
+								local parent = node
+								local node = Instance.new("UICorner")
+								node.Name = "UICorner"
+								node.Archivable = true
+								node.CornerRadius = UDim.new(0, 5)
+								node.Parent = parent
+							end
+							do
+								local parent = node
+								local node = Instance.new("UIListLayout")
+								node.Name = "UIListLayout"
+								node.Archivable = true
+								node.FillDirection = Enum.FillDirection.Vertical
+								node.HorizontalFlex = Enum.UIFlexAlignment.None
+								node.HorizontalAlignment = Enum.HorizontalAlignment.Center
+								node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+								node.Padding = UDim.new(0, 10)
+								node.SortOrder = Enum.SortOrder.LayoutOrder
+								node.VerticalFlex = Enum.UIFlexAlignment.None
+								node.VerticalAlignment = Enum.VerticalAlignment.Top
+								node.Wraps = false
+								node.Parent = parent
+							end
+							do
+								local parent = node
+								local node = Instance.new("UIPadding")
+								node.Name = "UIPadding"
+								node.Archivable = true
+								node.PaddingBottom = UDim.new(0, 10)
+								node.PaddingLeft = UDim.new(0, 0)
+								node.PaddingRight = UDim.new(0, 0)
+								node.PaddingTop = UDim.new(0, 10)
+								node.Parent = parent
+							end
+						end
+					end
 				end
 			end
 		end
