@@ -5840,7 +5840,7 @@ do
 	do
 		local parent = node
 		local node = Instance.new("UIStroke")
-		node.Name = "UIStroke"
+		node.Name = "Shadow"
 		node.Archivable = true
 		node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
 		node.Color = Color3.new(0, 0, 0)
