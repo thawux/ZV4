@@ -1,5 +1,5 @@
 {
-  "Textures"     : {
+  "Textures"      : {
     "Flying Bat": {
       "Type"      : "4x4",
       "Tags"      : ["Spec"],
@@ -48449,7 +48449,7 @@
       "Texture"   : "rbxassetid://12363677118"
     }
   },
-  "Meshes"       : {
+  "Meshes"        : {
     "Thick Tornado": {
       "Size"     : "3.251094102859497, 1.5018274784088135, 3.3510637283325195",
       "MeshId"   : "rbxassetid://5922912225",
@@ -49399,8 +49399,8 @@
       "Tags"     : ["Spheres"]
     }
   },
-  "Version"      : "4.1",
-  "Artists"      : {
+  "Version"       : "4.1",
+  "Artists"       : {
     "Swaying Skull": {
       "Type"      : "6x6",
       "Tags"      : ["thawux"],
@@ -51166,7 +51166,7 @@
       "Texture"   : "rbxassetid://84630942022861"
     }
   },
-  "Beams"        : {
+  "Beams"         : {
     "BeamBlurred beam": {
       "Type"      : "Static",
       "Tags"      : ["Spiral"],
@@ -54304,5 +54304,36 @@
       "Texture"   : "rbxassetid://7216850022"
     }
   },
-  "Mesh_Textures": {"Textures": [], "Flipbooks": []}
+  "Mesh_Flipbooks": {
+    "Blue Energy Crescent": {
+      "Tags"    : ["Crescent"],
+      "Textures": [
+        "rbxassetid://125687065158856",
+        "rbxassetid://105828480678948",
+        "rbxassetid://136970258870216",
+        "rbxassetid://110386736162219",
+        "rbxassetid://110202489205923",
+        "rbxassetid://125278927130644",
+        "rbxassetid://134433264637422",
+        "rbxassetid://135729268668434",
+        "rbxassetid://79389885311035",
+        "rbxassetid://76434650627322",
+        "rbxassetid://92302658064685",
+        "rbxassetid://106736021067037",
+        "rbxassetid://100144598974988",
+        "rbxassetid://115739074037052",
+        "rbxassetid://89355238507947",
+        "rbxassetid://72835661974958",
+        "rbxassetid://77734310605906",
+        "rbxassetid://117060105835557",
+        "rbxassetid://123010102423952",
+        "rbxassetid://132765779050160",
+        "rbxassetid://117185192352006",
+        "rbxassetid://122351641842008",
+        "rbxassetid://102611604155102",
+        "rbxassetid://103808077849814"
+      ],
+      "Credits" : "@Thawux"
+    }
+  }
 }
