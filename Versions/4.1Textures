@@ -54305,8 +54305,8 @@
     }
   },
   "Mesh_Flipbooks": {
-    "Blue Energy Crescent": {
-      "Tags"    : ["Crescent"],
+    "Circular Noise Rising": {
+      "Tags"    : ["Circle"],
       "Textures": [
         "rbxassetid://125687065158856",
         "rbxassetid://105828480678948",
