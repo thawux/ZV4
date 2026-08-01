@@ -24591,7 +24591,7 @@ do
 			node.HorizontalFlex = Enum.UIFlexAlignment.None
 			node.HorizontalAlignment = Enum.HorizontalAlignment.Left
 			node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
-			node.Padding = UDim.new(0, 6)
+			node.Padding = UDim.new(0, 7)
 			node.SortOrder = Enum.SortOrder.LayoutOrder
 			node.VerticalFlex = Enum.UIFlexAlignment.None
 			node.VerticalAlignment = Enum.VerticalAlignment.Top
@@ -26909,6 +26909,504 @@ do
 				end
 			end
 		end
+		do
+			local parent = node
+			local node = Instance.new("Frame")
+			node.Name = "OKLABConverter"
+			node.Archivable = true
+			node.AutoLocalize = true
+			node.Active = false
+			node.AnchorPoint = Vector2.new(0, 0.5)
+			node.AutomaticSize = Enum.AutomaticSize.Y
+			node.BackgroundColor3 = Color3.new(0.125490203499794, 0.13333334028720856, 0.15294118225574493)
+			node.BackgroundTransparency = 0
+			node.BorderColor3 = Color3.new(0, 0, 0)
+			node.BorderMode = Enum.BorderMode.Outline
+			node.BorderSizePixel = 0
+			node.ClipsDescendants = true
+			node.LayoutOrder = 0
+			node.Position = UDim2.new(0, 0, 0, 0)
+			node.Rotation = 0
+			node.Selectable = false
+			node.SelectionOrder = 0
+			node.Size = UDim2.new(1, 0, 0, 0)
+			node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+			node.Visible = true
+			node.ZIndex = 3
+			node.Style = Enum.FrameStyle.Custom
+			node:SetAttribute("ThemeBackgroundColor", "AccentColour")
+			node.Parent = parent
+			do
+				local parent = node
+				local node = Instance.new("UICorner")
+				node.Name = "UICorner"
+				node.Archivable = true
+				node.CornerRadius = UDim.new(0, 5)
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("TextLabel")
+				node.Name = "Title"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = false
+				node.AnchorPoint = Vector2.new(0, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.XY
+				node.BackgroundColor3 = Color3.new(1, 1, 1)
+				node.BackgroundTransparency = 1
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = false
+				node.LayoutOrder = 0
+				node.Position = UDim2.new(0, 5, 0, 25)
+				node.Rotation = 0
+				node.Selectable = false
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(0, 0, 0, 0)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+				node.LineHeight = 1
+				node.MaxVisibleGraphemes = -1
+				node.RichText = true
+				node.Text = "Convert Sequence To oklab"
+				node.TextColor3 = Color3.new(1, 1, 1)
+				node.TextDirection = Enum.TextDirection.Auto
+				node.TextScaled = false
+				node.TextSize = 20
+				node.TextStrokeColor3 = Color3.new(0, 0, 0)
+				node.TextStrokeTransparency = 1
+				node.TextTransparency = 0
+				node.TextTruncate = Enum.TextTruncate.None
+				node.TextWrapped = false
+				node.TextXAlignment = Enum.TextXAlignment.Left
+				node.TextYAlignment = Enum.TextYAlignment.Center
+				node:SetAttribute("ThemeTextColor", "HighlightColour")
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIStroke")
+				node.Name = "UIStroke"
+				node.Archivable = true
+				node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+				node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+				node.Enabled = true
+				node.LineJoinMode = Enum.LineJoinMode.Round
+				node.Thickness = 1
+				node.Transparency = 0
+				node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIStroke")
+				node.Name = "UIStroke"
+				node.Archivable = true
+				node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+				node.Color = Color3.new(0, 0, 0)
+				node.Enabled = true
+				node.LineJoinMode = Enum.LineJoinMode.Round
+				node.Thickness = 2.5
+				node.Transparency = 0.75
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("ImageButton")
+				node.Name = "Confirm"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = true
+				node.AnchorPoint = Vector2.new(1, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.None
+				node.BackgroundColor3 = Color3.new(0.8980392813682556, 0.8980392813682556, 0.8980392813682556)
+				node.BackgroundTransparency = 0
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = true
+				node.LayoutOrder = 500
+				node.Position = UDim2.new(1, -5, 0, 25)
+				node.Rotation = 0
+				node.Selectable = true
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(1, -380, 0, 40)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.AutoButtonColor = false
+				node.Modal = false
+				node.Selected = false
+				node.Style = Enum.ButtonStyle.Custom
+				node.HoverImage = ""
+				node.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+				node.ImageContent = Content.fromUri("rbxasset://textures/ui/GuiImagePlaceholder.png")
+				node.ImageColor3 = Color3.new(1, 1, 1)
+				node.ImageRectOffset = Vector2.new(0, 0)
+				node.ImageRectSize = Vector2.new(0, 0)
+				node.ImageTransparency = 1
+				node.PressedImage = ""
+				node.ResampleMode = Enum.ResamplerMode.Default
+				node.ScaleType = Enum.ScaleType.Stretch
+				node.SliceCenter = Rect.new(0, 0, 0, 0)
+				node.SliceScale = 1
+				node.TileSize = UDim2.new(1, 0, 1, 0)
+				node:SetAttribute("ThemeImageColor", "HighlightColour")
+				node.Parent = parent
+				do
+					local parent = node
+					local node = Instance.new("TextLabel")
+					node.Name = "Text"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0.5, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.XY
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0.5, 0, 0.5, 0)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(0, 0, 0, 0)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+					node.LineHeight = 1
+					node.MaxVisibleGraphemes = -1
+					node.RichText = true
+					node.Text = "Confirm"
+					node.TextColor3 = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.TextDirection = Enum.TextDirection.Auto
+					node.TextScaled = false
+					node.TextSize = 27
+					node.TextStrokeColor3 = Color3.new(0, 0, 0)
+					node.TextStrokeTransparency = 1
+					node.TextTransparency = 0
+					node.TextTruncate = Enum.TextTruncate.None
+					node.TextWrapped = false
+					node.TextXAlignment = Enum.TextXAlignment.Center
+					node.TextYAlignment = Enum.TextYAlignment.Center
+					node:SetAttribute("ThemeTextColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIStroke")
+					node.Name = "UIStroke"
+					node.Archivable = true
+					node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+					node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.Enabled = true
+					node.LineJoinMode = Enum.LineJoinMode.Round
+					node.Thickness = 2
+					node.Transparency = 0
+					node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UICorner")
+					node.Name = "UICorner"
+					node.Archivable = true
+					node.CornerRadius = UDim.new(0, 5)
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIGradient")
+					node.Name = "UIGradient"
+					node.Archivable = true
+					node.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.4732300043106079, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.6511229872703552, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774)), ColorSequenceKeypoint.new(1, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774))})
+					node.Enabled = true
+					node.Offset = Vector2.new(0, 0)
+					node.Rotation = 45
+					node.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0, 0), NumberSequenceKeypoint.new(1, 0, 0)})
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIFlexItem")
+					node.Name = "UIFlexItem"
+					node.Archivable = true
+					node.FlexMode = Enum.UIFlexMode.Custom
+					node.GrowRatio = 1.1200000047683716
+					node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+					node.ShrinkRatio = 0
+					node.Parent = parent
+				end
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIPadding")
+				node.Name = "UIPadding"
+				node.Archivable = true
+				node.PaddingBottom = UDim.new(0, 10)
+				node.PaddingLeft = UDim.new(0, 0)
+				node.PaddingRight = UDim.new(0, 0)
+				node.PaddingTop = UDim.new(0, 5)
+				node.Parent = parent
+			end
+		end
+		do
+			local parent = node
+			local node = Instance.new("Frame")
+			node.Name = "PerpendicularZOffset"
+			node.Archivable = true
+			node.AutoLocalize = true
+			node.Active = false
+			node.AnchorPoint = Vector2.new(0, 0.5)
+			node.AutomaticSize = Enum.AutomaticSize.Y
+			node.BackgroundColor3 = Color3.new(0.125490203499794, 0.13333334028720856, 0.15294118225574493)
+			node.BackgroundTransparency = 0
+			node.BorderColor3 = Color3.new(0, 0, 0)
+			node.BorderMode = Enum.BorderMode.Outline
+			node.BorderSizePixel = 0
+			node.ClipsDescendants = true
+			node.LayoutOrder = 0
+			node.Position = UDim2.new(0, 0, 0, 0)
+			node.Rotation = 0
+			node.Selectable = false
+			node.SelectionOrder = 0
+			node.Size = UDim2.new(1, 0, 0, 0)
+			node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+			node.Visible = true
+			node.ZIndex = 3
+			node.Style = Enum.FrameStyle.Custom
+			node:SetAttribute("ThemeBackgroundColor", "AccentColour")
+			node.Parent = parent
+			do
+				local parent = node
+				local node = Instance.new("UICorner")
+				node.Name = "UICorner"
+				node.Archivable = true
+				node.CornerRadius = UDim.new(0, 5)
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("TextLabel")
+				node.Name = "Title"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = false
+				node.AnchorPoint = Vector2.new(0, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.XY
+				node.BackgroundColor3 = Color3.new(1, 1, 1)
+				node.BackgroundTransparency = 1
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = false
+				node.LayoutOrder = 0
+				node.Position = UDim2.new(0, 5, 0, 25)
+				node.Rotation = 0
+				node.Selectable = false
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(0, 0, 0, 0)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+				node.LineHeight = 1
+				node.MaxVisibleGraphemes = -1
+				node.RichText = true
+				node.Text = "Convert ZOffset to Vertical ZOffset"
+				node.TextColor3 = Color3.new(1, 1, 1)
+				node.TextDirection = Enum.TextDirection.Auto
+				node.TextScaled = false
+				node.TextSize = 20
+				node.TextStrokeColor3 = Color3.new(0, 0, 0)
+				node.TextStrokeTransparency = 1
+				node.TextTransparency = 0
+				node.TextTruncate = Enum.TextTruncate.None
+				node.TextWrapped = false
+				node.TextXAlignment = Enum.TextXAlignment.Left
+				node.TextYAlignment = Enum.TextYAlignment.Center
+				node:SetAttribute("ThemeTextColor", "HighlightColour")
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIStroke")
+				node.Name = "UIStroke"
+				node.Archivable = true
+				node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+				node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+				node.Enabled = true
+				node.LineJoinMode = Enum.LineJoinMode.Round
+				node.Thickness = 1
+				node.Transparency = 0
+				node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIStroke")
+				node.Name = "UIStroke"
+				node.Archivable = true
+				node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+				node.Color = Color3.new(0, 0, 0)
+				node.Enabled = true
+				node.LineJoinMode = Enum.LineJoinMode.Round
+				node.Thickness = 2.5
+				node.Transparency = 0.75
+				node.Parent = parent
+			end
+			do
+				local parent = node
+				local node = Instance.new("ImageButton")
+				node.Name = "Confirm"
+				node.Archivable = true
+				node.AutoLocalize = true
+				node.Active = true
+				node.AnchorPoint = Vector2.new(1, 0.5)
+				node.AutomaticSize = Enum.AutomaticSize.None
+				node.BackgroundColor3 = Color3.new(0.8980392813682556, 0.8980392813682556, 0.8980392813682556)
+				node.BackgroundTransparency = 0
+				node.BorderColor3 = Color3.new(0, 0, 0)
+				node.BorderMode = Enum.BorderMode.Outline
+				node.BorderSizePixel = 0
+				node.ClipsDescendants = true
+				node.LayoutOrder = 500
+				node.Position = UDim2.new(1, -5, 0, 25)
+				node.Rotation = 0
+				node.Selectable = true
+				node.SelectionOrder = 0
+				node.Size = UDim2.new(1, -380, 0, 40)
+				node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+				node.Visible = true
+				node.ZIndex = 1
+				node.AutoButtonColor = false
+				node.Modal = false
+				node.Selected = false
+				node.Style = Enum.ButtonStyle.Custom
+				node.HoverImage = ""
+				node.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+				node.ImageContent = Content.fromUri("rbxasset://textures/ui/GuiImagePlaceholder.png")
+				node.ImageColor3 = Color3.new(1, 1, 1)
+				node.ImageRectOffset = Vector2.new(0, 0)
+				node.ImageRectSize = Vector2.new(0, 0)
+				node.ImageTransparency = 1
+				node.PressedImage = ""
+				node.ResampleMode = Enum.ResamplerMode.Default
+				node.ScaleType = Enum.ScaleType.Stretch
+				node.SliceCenter = Rect.new(0, 0, 0, 0)
+				node.SliceScale = 1
+				node.TileSize = UDim2.new(1, 0, 1, 0)
+				node:SetAttribute("ThemeImageColor", "HighlightColour")
+				node.Parent = parent
+				do
+					local parent = node
+					local node = Instance.new("TextLabel")
+					node.Name = "Text"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0.5, 0.5)
+					node.AutomaticSize = Enum.AutomaticSize.XY
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0.5, 0, 0.5, 0)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(0, 0, 0, 0)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+					node.LineHeight = 1
+					node.MaxVisibleGraphemes = -1
+					node.RichText = true
+					node.Text = "Confirm"
+					node.TextColor3 = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.TextDirection = Enum.TextDirection.Auto
+					node.TextScaled = false
+					node.TextSize = 27
+					node.TextStrokeColor3 = Color3.new(0, 0, 0)
+					node.TextStrokeTransparency = 1
+					node.TextTransparency = 0
+					node.TextTruncate = Enum.TextTruncate.None
+					node.TextWrapped = false
+					node.TextXAlignment = Enum.TextXAlignment.Center
+					node.TextYAlignment = Enum.TextYAlignment.Center
+					node:SetAttribute("ThemeTextColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIStroke")
+					node.Name = "UIStroke"
+					node.Archivable = true
+					node.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual
+					node.Color = Color3.new(0.3686274588108063, 0.3686274588108063, 0.3843137323856354)
+					node.Enabled = true
+					node.LineJoinMode = Enum.LineJoinMode.Round
+					node.Thickness = 2
+					node.Transparency = 0
+					node:SetAttribute("ThemeStrokeColor", "AccentTwoColour")
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UICorner")
+					node.Name = "UICorner"
+					node.Archivable = true
+					node.CornerRadius = UDim.new(0, 5)
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIGradient")
+					node.Name = "UIGradient"
+					node.Archivable = true
+					node.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.4732300043106079, Color3.new(1, 1, 1)), ColorSequenceKeypoint.new(0.6511229872703552, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774)), ColorSequenceKeypoint.new(1, Color3.new(0.9098039865493774, 0.9098039865493774, 0.9098039865493774))})
+					node.Enabled = true
+					node.Offset = Vector2.new(0, 0)
+					node.Rotation = 45
+					node.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0, 0), NumberSequenceKeypoint.new(1, 0, 0)})
+					node.Parent = parent
+				end
+				do
+					local parent = node
+					local node = Instance.new("UIFlexItem")
+					node.Name = "UIFlexItem"
+					node.Archivable = true
+					node.FlexMode = Enum.UIFlexMode.Custom
+					node.GrowRatio = 1.1200000047683716
+					node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+					node.ShrinkRatio = 0
+					node.Parent = parent
+				end
+			end
+			do
+				local parent = node
+				local node = Instance.new("UIPadding")
+				node.Name = "UIPadding"
+				node.Archivable = true
+				node.PaddingBottom = UDim.new(0, 10)
+				node.PaddingLeft = UDim.new(0, 0)
+				node.PaddingRight = UDim.new(0, 0)
+				node.PaddingTop = UDim.new(0, 5)
+				node.Parent = parent
+			end
+		end
 	end
 	do
 		local parent = node
@@ -26916,6 +27414,112 @@ do
 		node.Name = "UIShadow"
 		node.Archivable = true
 		node.Parent = parent
+	end
+	do
+		local parent = node
+		local node = Instance.new("ImageButton")
+		node.Name = "ScrollBarUtility"
+		node.Archivable = true
+		node.AutoLocalize = true
+		node.Active = false
+		node.AnchorPoint = Vector2.new(0.5, 0)
+		node.AutomaticSize = Enum.AutomaticSize.None
+		node.BackgroundColor3 = Color3.new(0.125490203499794, 0.13333334028720856, 0.15294118225574493)
+		node.BackgroundTransparency = 0
+		node.BorderColor3 = Color3.new(0, 0, 0)
+		node.BorderMode = Enum.BorderMode.Outline
+		node.BorderSizePixel = 0
+		node.ClipsDescendants = false
+		node.LayoutOrder = 0
+		node.Position = UDim2.new(1, -9, 0, 45)
+		node.Rotation = 0
+		node.Selectable = false
+		node.SelectionOrder = 0
+		node.Size = UDim2.new(0, 10, 1, -50)
+		node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+		node.Visible = false
+		node.ZIndex = 2
+		node.AutoButtonColor = false
+		node.Modal = false
+		node.Selected = false
+		node.Style = Enum.ButtonStyle.Custom
+		node.HoverImage = ""
+		node.Image = ""
+		node.ImageContent = Content.none
+		node.ImageColor3 = Color3.new(1, 1, 1)
+		node.ImageRectOffset = Vector2.new(0, 0)
+		node.ImageRectSize = Vector2.new(0, 0)
+		node.ImageTransparency = 1
+		node.PressedImage = ""
+		node.ResampleMode = Enum.ResamplerMode.Default
+		node.ScaleType = Enum.ScaleType.Stretch
+		node.SliceCenter = Rect.new(0, 0, 0, 0)
+		node.SliceScale = 1
+		node.TileSize = UDim2.new(1, 0, 1, 0)
+		node:SetAttribute("ThemeImageColor", "HighlightColour")
+		node:SetAttribute("ThemeBackgroundColor", "AccentColour")
+		node.Parent = parent
+		do
+			local parent = node
+			local node = Instance.new("UICorner")
+			node.Name = "UICorner"
+			node.Archivable = true
+			node.CornerRadius = UDim.new(0, 8)
+			node.Parent = parent
+		end
+		do
+			local parent = node
+			local node = Instance.new("ImageButton")
+			node.Name = "ScrollBlob"
+			node.Archivable = true
+			node.AutoLocalize = true
+			node.Active = true
+			node.AnchorPoint = Vector2.new(0.5, 0)
+			node.AutomaticSize = Enum.AutomaticSize.None
+			node.BackgroundColor3 = Color3.new(1, 1, 1)
+			node.BackgroundTransparency = 0
+			node.BorderColor3 = Color3.new(0, 0, 0)
+			node.BorderMode = Enum.BorderMode.Outline
+			node.BorderSizePixel = 0
+			node.ClipsDescendants = false
+			node.LayoutOrder = 0
+			node.Position = UDim2.new(0.5, 0, 0, 0)
+			node.Rotation = 0
+			node.Selectable = false
+			node.SelectionOrder = 0
+			node.Size = UDim2.new(1, 0, 0, 20)
+			node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+			node.Visible = true
+			node.ZIndex = 1
+			node.AutoButtonColor = false
+			node.Modal = false
+			node.Selected = false
+			node.Style = Enum.ButtonStyle.Custom
+			node.HoverImage = ""
+			node.Image = ""
+			node.ImageContent = Content.none
+			node.ImageColor3 = Color3.new(1, 1, 1)
+			node.ImageRectOffset = Vector2.new(0, 0)
+			node.ImageRectSize = Vector2.new(0, 0)
+			node.ImageTransparency = 1
+			node.PressedImage = ""
+			node.ResampleMode = Enum.ResamplerMode.Default
+			node.ScaleType = Enum.ScaleType.Stretch
+			node.SliceCenter = Rect.new(0, 0, 0, 0)
+			node.SliceScale = 1
+			node.TileSize = UDim2.new(1, 0, 1, 0)
+			node:SetAttribute("ThemeImageColor", "HighlightColour")
+			node:SetAttribute("ThemeBackgroundColor", "HighlightColour")
+			node.Parent = parent
+			do
+				local parent = node
+				local node = Instance.new("UICorner")
+				node.Name = "UICorner"
+				node.Archivable = true
+				node.CornerRadius = UDim.new(0, 8)
+				node.Parent = parent
+			end
+		end
 	end
 end
 
