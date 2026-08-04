@@ -28424,6 +28424,160 @@ do
 						end
 					end
 				end
+				do
+					local parent = node
+					local node = Instance.new("Frame")
+					node.Name = "Thickness"
+					node.Archivable = true
+					node.AutoLocalize = true
+					node.Active = false
+					node.AnchorPoint = Vector2.new(0, 0)
+					node.AutomaticSize = Enum.AutomaticSize.None
+					node.BackgroundColor3 = Color3.new(1, 1, 1)
+					node.BackgroundTransparency = 1
+					node.BorderColor3 = Color3.new(0, 0, 0)
+					node.BorderMode = Enum.BorderMode.Outline
+					node.BorderSizePixel = 0
+					node.ClipsDescendants = false
+					node.LayoutOrder = 0
+					node.Position = UDim2.new(0, 0, 0, 0)
+					node.Rotation = 0
+					node.Selectable = false
+					node.SelectionOrder = 0
+					node.Size = UDim2.new(0, 0, 0, 40)
+					node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+					node.Visible = true
+					node.ZIndex = 1
+					node.Style = Enum.FrameStyle.Custom
+					node.Parent = parent
+					do
+						local parent = node
+						local node = Instance.new("UIListLayout")
+						node.Name = "UIListLayout"
+						node.Archivable = true
+						node.FillDirection = Enum.FillDirection.Horizontal
+						node.HorizontalFlex = Enum.UIFlexAlignment.Fill
+						node.HorizontalAlignment = Enum.HorizontalAlignment.Left
+						node.ItemLineAlignment = Enum.ItemLineAlignment.Automatic
+						node.Padding = UDim.new(0, 0)
+						node.SortOrder = Enum.SortOrder.LayoutOrder
+						node.VerticalFlex = Enum.UIFlexAlignment.None
+						node.VerticalAlignment = Enum.VerticalAlignment.Center
+						node.Wraps = false
+						node.Parent = parent
+					end
+					do
+						local parent = node
+						local node = Instance.new("TextLabel")
+						node.Name = "Title"
+						node.Archivable = true
+						node.AutoLocalize = true
+						node.Active = false
+						node.AnchorPoint = Vector2.new(0, 0.5)
+						node.AutomaticSize = Enum.AutomaticSize.Y
+						node.BackgroundColor3 = Color3.new(1, 1, 1)
+						node.BackgroundTransparency = 1
+						node.BorderColor3 = Color3.new(0, 0, 0)
+						node.BorderMode = Enum.BorderMode.Outline
+						node.BorderSizePixel = 0
+						node.ClipsDescendants = false
+						node.LayoutOrder = 1
+						node.Position = UDim2.new(0, 5, 0.5, 0)
+						node.Rotation = 0
+						node.Selectable = false
+						node.SelectionOrder = 0
+						node.Size = UDim2.new(0, 0, 0, 0)
+						node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+						node.Visible = true
+						node.ZIndex = 1
+						node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+						node.LineHeight = 1
+						node.MaxVisibleGraphemes = -1
+						node.RichText = true
+						node.Text = "Thickness"
+						node.TextColor3 = Color3.new(1, 1, 1)
+						node.TextDirection = Enum.TextDirection.Auto
+						node.TextScaled = false
+						node.TextSize = 19
+						node.TextStrokeColor3 = Color3.new(0, 0, 0)
+						node.TextStrokeTransparency = 1
+						node.TextTransparency = 0
+						node.TextTruncate = Enum.TextTruncate.None
+						node.TextWrapped = false
+						node.TextXAlignment = Enum.TextXAlignment.Left
+						node.TextYAlignment = Enum.TextYAlignment.Center
+						node:SetAttribute("ThemeTextColor", "HighlightColour")
+						node.Parent = parent
+					end
+					do
+						local parent = node
+						local node = Instance.new("TextBox")
+						node.Name = "Value"
+						node.Archivable = true
+						node.AutoLocalize = true
+						node.Active = true
+						node.AnchorPoint = Vector2.new(1, 0.5)
+						node.AutomaticSize = Enum.AutomaticSize.None
+						node.BackgroundColor3 = Color3.new(0.09803921729326248, 0.10196078568696976, 0.12156862765550613)
+						node.BackgroundTransparency = 0
+						node.BorderColor3 = Color3.new(0, 0, 0)
+						node.BorderMode = Enum.BorderMode.Outline
+						node.BorderSizePixel = 0
+						node.ClipsDescendants = true
+						node.LayoutOrder = 2
+						node.Position = UDim2.new(1, -5, 0.5, 0)
+						node.Rotation = 0
+						node.Selectable = true
+						node.SelectionOrder = 0
+						node.Size = UDim2.new(0, 0, 0, 40)
+						node.SizeConstraint = Enum.SizeConstraint.RelativeXY
+						node.Visible = true
+						node.ZIndex = 1
+						node.ClearTextOnFocus = false
+						node.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.Medium, Enum.FontStyle.Normal)
+						node.LineHeight = 1
+						node.MultiLine = false
+						node.PlaceholderColor3 = Color3.new(0.49803921580314636, 0.49803921580314636, 0.49803921580314636)
+						node.PlaceholderText = "1"
+						node.RichText = true
+						node.Text = ""
+						node.TextColor3 = Color3.new(1, 1, 1)
+						node.TextDirection = Enum.TextDirection.Auto
+						node.TextEditable = true
+						node.TextScaled = false
+						node.TextSize = 20
+						node.TextStrokeColor3 = Color3.new(0, 0, 0)
+						node.TextStrokeTransparency = 1
+						node.TextTransparency = 0
+						node.TextTruncate = Enum.TextTruncate.AtEnd
+						node.TextWrapped = true
+						node.TextXAlignment = Enum.TextXAlignment.Left
+						node.TextYAlignment = Enum.TextYAlignment.Center
+						node:SetAttribute("ThemeTextColor", "HighlightColour")
+						node:SetAttribute("ThemePlaceholderColor", "HighlightColour")
+						node:SetAttribute("ThemeBackgroundColor", "MainColour")
+						node.Parent = parent
+						do
+							local parent = node
+							local node = Instance.new("UICorner")
+							node.Name = "UICorner"
+							node.Archivable = true
+							node.CornerRadius = UDim.new(0, 5)
+							node.Parent = parent
+						end
+						do
+							local parent = node
+							local node = Instance.new("UIPadding")
+							node.Name = "UIPadding"
+							node.Archivable = true
+							node.PaddingBottom = UDim.new(0, 0)
+							node.PaddingLeft = UDim.new(0, 5)
+							node.PaddingRight = UDim.new(0, 0)
+							node.PaddingTop = UDim.new(0, 0)
+							node.Parent = parent
+						end
+					end
+				end
 			end
 		end
 	end
